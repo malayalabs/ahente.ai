@@ -19,7 +19,7 @@ The landing page is automatically deployed to GitHub Pages when you push to the 
 
 The app is deployed to Netlify using a manual script.
 
-**URL**: https://ahente-app.netlify.app
+**URL**: https://ahente-ai.netlify.app
 
 ### Prerequisites
 

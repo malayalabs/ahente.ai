@@ -19,4 +19,4 @@ echo "🌐 Deploying to Netlify..."
 netlify deploy --prod --dir=build
 
 echo "✅ Deployment complete!"
-echo "🔗 Your app is live at: https://ahente-app.netlify.app" 
+echo "🔗 Your app is live at: https://ahente-ai.netlify.app" 
