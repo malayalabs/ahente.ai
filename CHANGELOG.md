@@ -59,4 +59,6 @@ When adding entries to this changelog, please follow these guidelines:
 
 - [GitHub Repository](https://github.com/yourusername/ahente-ai)
 - [Issues](https://github.com/yourusername/ahente-ai/issues)
-- [Pull Requests](https://github.com/yourusername/ahente-ai/pulls) 
+- [Pull Requests](https://github.com/yourusername/ahente-ai/pulls)
+
+<img src="static/logo.png" alt="ahente.ai Logo" width="300" height="auto"> 
