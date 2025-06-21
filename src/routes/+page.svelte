@@ -1,6 +1,5 @@
 <script lang="ts">
   import { Bot } from 'lucide-svelte';
-  import { base } from '$app/paths';
 </script>
 
 <div class="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-50 to-blue-200 dark:from-gray-900 dark:to-gray-800">
@@ -14,7 +13,7 @@
     <p class="text-lg text-gray-700 dark:text-gray-300 mb-8">
       Your AI-powered development team. Manage agents, chat, assign tasks, and track project progress—all in one modern workspace.
     </p>
-    <a href="{base}/app" class="inline-block px-8 py-3 bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 text-white text-lg font-semibold rounded-md shadow transition-colors">
+    <a href="https://ahente-app.netlify.app" target="_blank" rel="noopener noreferrer" class="inline-block px-8 py-3 bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 text-white text-lg font-semibold rounded-md shadow transition-colors">
       Enter App
     </a>
     <div class="mt-8 text-sm text-gray-500 dark:text-gray-400">
