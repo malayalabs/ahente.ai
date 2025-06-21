@@ -19,9 +19,6 @@ jobs:
   # Build and deploy landing page to GitHub Pages
   deploy-to-github-pages:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: https://malayalabs.github.io/ahente.ai/
     steps:
       - name: Checkout
         uses: actions/checkout@v4
