@@ -1,5 +1,6 @@
 <script lang="ts">
   import { Bot } from 'lucide-svelte';
+  import { base } from '$app/paths';
 </script>
 
 <div class="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-50 to-blue-200 dark:from-gray-900 dark:to-gray-800">
