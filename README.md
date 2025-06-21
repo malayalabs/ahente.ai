@@ -1,8 +1,6 @@
-# ahente-ai
+# <img src="static/logo.svg" alt="ahente.ai Logo" width="32" height="32" style="vertical-align: middle; margin-right: 8px;"> ahente-ai
 
 Speed up your development process by using AI agents for your software company.
-
-Ahente AI is a modern web application that helps software development teams leverage AI agents to streamline their development workflow. Built with SvelteKit and TypeScript, it provides a GitHub-style dashboard interface for managing AI agents, chat interactions, task management, and version control.
 
 ## Features
 
