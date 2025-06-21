@@ -31,7 +31,7 @@ Speed up your development process by using AI agents for your software company.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ahente-ai.git
+   git clone https://github.com/malayalabs/ahente.ai.git
    cd ahente-ai
    ```
 
@@ -95,7 +95,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/ahente-ai.git
+   git clone https://github.com/malayalabs/ahente.ai.git
    cd ahente-ai
    ```
 
@@ -177,8 +177,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 If you need help or have questions:
 
 - 📖 **Documentation:** Check the code comments and this README
-- 🐛 **Issues:** Report bugs on [GitHub Issues](https://github.com/yourusername/ahente-ai/issues)
-- 💬 **Discussions:** Join the conversation on [GitHub Discussions](https://github.com/yourusername/ahente-ai/discussions)
+- 🐛 **Issues:** Report bugs on [GitHub Issues](https://github.com/malayalabs/ahente.ai/issues)
+- 💬 **Discussions:** Join the conversation on [GitHub Discussions](https://github.com/malayalabs/ahente.ai/discussions)
 
 ---
 
